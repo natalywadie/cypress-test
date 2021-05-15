@@ -1,0 +1,25 @@
+{
+  "name": "cypress-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress": "cypress open",
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natalywadie/cypress-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natalywadie/cypress-test/issues"
+  },
+  "homepage": "https://github.com/natalywadie/cypress-test#readme",
+  "dependencies": {
+    "@applitools/eyes-cypress": "^3.21.1",
+    "cypress": "^7.3.0"
+  }
+}
